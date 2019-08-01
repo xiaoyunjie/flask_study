@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <title>templates</title>
+    <h1>转换为大写字母</h1>
+    {% filter upper %}
+        this test becomes uppercase.
+    {% endfilter %}
+    <h2>hello,{{name|default('哈哈')|title}}</h2>
+    <h2>{{name2|musical}}</h2>
+
+<body>
+    {% from "macros.html" import qux with context%}
+    {{ qux(amount=1) }}
+    <a href="{{url_for('show_flash')}}">flash something</a>
+</body>
+
+{% endblock %}
