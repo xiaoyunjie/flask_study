@@ -48,4 +48,4 @@ pipenv shell
 flask run 
 ```
 
-> 浏览器打开 (http://localhost:5000)[http://localhost:5000]
+> 浏览器打开 [http://localhost:5000](http://localhost:5000)
