@@ -10,6 +10,7 @@ python-dotenv = "*"
 flask-login = "*"
 flask-wtf = "*"
 flask = "*"
+flask-sqlalchemy = "*"
 
 [requires]
 python_version = "3.7"

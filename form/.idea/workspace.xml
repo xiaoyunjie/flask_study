@@ -126,20 +126,6 @@
           <expand>
             <path>
               <item name="form" type="b2602c69:ProjectViewProjectNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="form" type="b2602c69:ProjectViewProjectNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="form" type="b2602c69:ProjectViewProjectNode" />
-              <item name="form" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="form" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -211,17 +197,17 @@
       <workItem from="1563850974544" duration="206000" />
       <workItem from="1564108195670" duration="17219000" />
       <workItem from="1564370284612" duration="2849000" />
-      <workItem from="1564383162983" duration="29403000" />
+      <workItem from="1564383162983" duration="29606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50731000" />
+    <option name="totallyTimeSpent" value="50934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="23" width="1860" height="1057" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.23652366" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.23652366" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5007728" side_tool="true" weight="0.23678415" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -235,7 +221,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2569948" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.2569948" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
